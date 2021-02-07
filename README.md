@@ -1,5 +1,5 @@
 # miner
-This is my usual xmr miner : )
+This is my usual xmr miner for x86 : )
 # Usage
 You must do nano config.json and change the background to true. 
 
