@@ -24,7 +24,7 @@
         {
             "url": "pool.supportxmr.com:7777",
             "user": "YOUR_WALLET",
-            "pass": "x", //Name of the miner
+            "pass": "x", 
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
