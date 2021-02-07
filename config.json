@@ -23,8 +23,8 @@
     "pools": [
         {
             "url": "pool.supportxmr.com:7777",
-            "user": "879saAUeits156B9xwodN1PYg8Q8vgRssYXYNgFjwp6JTyEq1erLxtrPWTqE4dmu6eNCSjYNE6mFvavg4CWEQ4sCRZaSmga.Miner00",
-            "pass": "x",
+            "user": "YOUR_WALLET",
+            "pass": "x", //Name of the miner
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
